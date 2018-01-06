@@ -4,7 +4,7 @@ package clinicamedica;
  *
  * @author dell
  */
-public class Medico {
+public class Medico extends Pessoa {
     
     private int crm;
     private String especialidade;
